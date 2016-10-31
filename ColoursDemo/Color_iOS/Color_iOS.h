@@ -17,3 +17,4 @@ FOUNDATION_EXPORT const unsigned char Color_iOSVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <Color_iOS/PublicHeader.h>
 
 
+#import "Colours.h"
